@@ -44,6 +44,13 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sorting Algorithms\BubbleSorter.cs" />
+    <Compile Include="Sorting Algorithms\HeapSorter.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="Sorting Algorithms\InsertionSorter.cs" />
+    <Compile Include="Sorting Algorithms\MergeSorter.cs" />
+    <Compile Include="Sorting Algorithms\QuickSorter.cs" />
+    <Compile Include="Starter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
